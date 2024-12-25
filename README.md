@@ -4,6 +4,10 @@
 
 ## 🚀 Funcionalidades principales
 
+### Video demostrativo
+[Ver el video en YouTube](https://youtu.be/Aj35OKHhai4)
+
+
 - **Búsqueda avanzada:** Encuentra libros por su nombre, autor o idioma.
 - **Gestión de libros:** Agrega nuevos libros a la base de datos con facilidad.
 - **Acceso constante:** Consulta tu biblioteca personal desde cualquier lugar en cualquier momento.
@@ -12,15 +16,14 @@
 
 - **Backend:** Java con Spring Framework
 - **Base de datos:** PostgreSQL
-- **Arquitectura:** Diseño robusto para un manejo eficiente y seguro de datos
+- **Entorno de desarrollo:** Intellij IDEA
 
 ## 🌟 Objetivo del proyecto
 
 Literalura busca facilitar el acceso y la organización de libros, promoviendo una experiencia intuitiva y práctica para los usuarios.
 
-## 🏁 Cómo empezar
+## 🏁 PROYECTO CREADO POR:
 
-1. Clona este repositorio en tu máquina local.
-   ```bash
-   git clone https://github.com/tu-usuario/literalura.git
+1. Jonathan Ariel Archila Rincon.
+2. con ayuda de inteligencia artificial.(ChatGPT4)
 
