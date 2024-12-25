@@ -1,4 +1,4 @@
-<h1 aling="center" Literalura 📚 </h1>
+# Literalura 📚
 
 **Literalura** es un proyecto diseñado para los amantes de los libros que desean explorar, gestionar y acceder a sus lecturas favoritas de manera sencilla y eficiente. Este sistema te permite buscar libros por nombre, autor o idioma, además de agregar libros a una base de datos para tenerlos disponibles en cualquier momento.
 
