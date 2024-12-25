@@ -1,9 +1,7 @@
-# Literalura 📚
-
 ![let’s explore](https://github.com/user-attachments/assets/ea13cbed-84e5-4dbc-8a23-8a93fb14e52d)
 
 
-**Literalura** es un proyecto diseñado para los amantes de los libros que desean explorar, gestionar y acceder a sus lecturas favoritas de manera sencilla y eficiente. Este sistema te permite buscar libros por nombre, autor o idioma, además de agregar libros a una base de datos para tenerlos disponibles en cualquier momento.
+**Literalura 📚** es un proyecto diseñado para los amantes de los libros que desean explorar, gestionar y acceder a sus lecturas favoritas de manera sencilla y eficiente. Este sistema te permite buscar libros por nombre, autor o idioma, además de agregar libros a una base de datos para tenerlos disponibles en cualquier momento.
 
 ## 🚀 Funcionalidades principales
 
